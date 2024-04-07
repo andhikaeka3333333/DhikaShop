@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/daging"
+        android:title="Daging"
+        android:icon="@drawable/round_set_meal_24"/>
+
+    <item
+        android:id="@+id/sayur"
+        android:title="Sayur"
+        android:icon="@drawable/round_shopping_cart_24"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/round_account_circle_24"/>
+</menu>
